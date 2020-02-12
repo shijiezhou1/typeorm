@@ -63,7 +63,7 @@
     "gulp-mocha": "^6.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^1.0.0",
-    "gulp-shell": "^0.6.5",
+    "gulp-shell": "^0.8.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-tslint": "^8.1.4",
     "gulp-typescript": "^5.0.0",
