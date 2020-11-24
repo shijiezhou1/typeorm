@@ -52,7 +52,7 @@
     "@types/mocha": "^5.2.6",
     "@types/node": "^9.6.0",
     "@types/rimraf": "^2.0.2",
-    "@types/sinon": "^7.0.8",
+    "@types/sinon": "^9.0.9",
     "@types/source-map-support": "^0.4.2",
     "@types/yargs": "^13.0.3",
     "chai": "^4.2.0",
